@@ -69,7 +69,7 @@ mvn spring-boot:run
 Explore the APIs using Swagger UI:
 
 Copy
-http://localhost:8080/swagger-ui.html
+http://localhost:8080/
 📂 Project Structure
 Copy
 src/
